@@ -1,0 +1,8 @@
+# ninja log v5
+3	516	6829479902230188	CMakeFiles/New.dir/main.cpp.obj	3354fc856bcdaece
+517	709	6829479904124792	New.exe	ac2c08dc27dbfa03
+1	195	6829482968051067	build.ninja	a37f12890217f2f
+4	72	6829483568521458	CMakeFiles/New.dir/Structure/main.cpp.obj	57acf1d46496f457
+73	260	6829483570356554	New.exe	63be8680cfe5cbd0
+3	430	6829493122053429	CMakeFiles/New.dir/Structure/main.cpp.obj	57acf1d46496f457
+3	422	6829494199323861	CMakeFiles/New.dir/Structure/main.cpp.obj	57acf1d46496f457

@@ -1,0 +1,3 @@
+C:/Users/ASUS/Documents/Clion Projects/New/cmake-build-debug/CMakeFiles/New.dir
+C:/Users/ASUS/Documents/Clion Projects/New/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Documents/Clion Projects/New/cmake-build-debug/CMakeFiles/rebuild_cache.dir
